@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: beelzbozo/podinfo
-      tag: dev-0k6j3cuy
+      tag: dev-hzulqrbq
     replicaCount: 1
     hpa:
       enabled: false
