@@ -16,5 +16,5 @@ spec:
   values:
     image:
       repository: beelzbozo/podinfo
-      tag: 0.4.11
+      tag: prod-sncthsqu
     replicaCount: 3
