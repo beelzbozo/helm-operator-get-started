@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: beelzbozo/podinfo
-      tag: stg-vh6y8yd9
+      tag: stg-bo34vdud
     replicaCount: 2
     hpa:
       enabled: true
